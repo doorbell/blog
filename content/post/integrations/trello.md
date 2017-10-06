@@ -1,5 +1,5 @@
 ---
-title: "Trello integration arrives on Doorbell"
+title: "Trello integration"
 cover: "https://avatars.io/twitter/trello"
 alias: ["/post/60323763701/trello-integration-arrives-on-doorbell"]
 tags: ["trello", "project management"]

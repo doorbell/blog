@@ -19,7 +19,7 @@ So we're excited to announce our integration with both [HipChat](https://hipchat
 
 ## Setup
 
-To setup your group chat applications, you'll need to go to your application's settings page, and open the “Group Chat notifications” section.
+To setup your group chat applications, you'll need to go to your application's settings page, and open the "Group Chat notifications" section.
 
 ### HipChat setup
 
