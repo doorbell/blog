@@ -1,4 +1,4 @@
-baseurl = "http://blog.doorbell.io/"
+baseurl = "http://doorbell.github.io/blog"
 languageCode = "en-us"
 title = "Doorbell blog"
 theme = "hugo-nuo"
