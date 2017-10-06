@@ -1,0 +1,60 @@
+baseurl = "http://blog.doorbell.io/"
+languageCode = "en-us"
+title = "Doorbell blog"
+theme = "cactus-plus"
+enableRobotsTXT = true
+pygmentsuseclasses = true
+PygmentsCodeFences = true
+canonifyurls = true
+
+googleAnalytics = "UA-42729408-2"
+
+# Initial site menu, you can extend menu with content.
+[[menu.main]]
+  name = "Home"
+  weight = 10
+  identifier = "home"
+  url = "/"
+
+[[menu.main]]
+  name = "Doorbell.io"
+  weight = 20
+  identifier = "doorbell"
+  url = "https://doorbell.io"
+
+# Add your own params here
+[params]
+  author = "Philip Manavopoulos"
+  avatar = "/img/avatar.jpg"
+  seotitle = "Doorbell blog"
+  subtitle = ""
+  description = "Easily gather in-app user feedback, on websites, iOS apps, and Android apps."
+  paginate = 10
+
+  # Choose your social networks
+  email = "hello@doorbell.io"
+  github = "doorbell"
+  twitter = "doorbell_io"
+  # linkedin = "linkedin_username"
+  # weibo = "weibo_username"
+  # wechat= "/img/qrcode.jpg" # Replace with your wechat qrcode image
+  # facebook = "facebook_username"
+  # google = "googlplus_id_number"
+  # instagram = "instagram_username"
+  # youtube = "youtube_username"
+  # vimeo = "vimeo_username"
+  # medium = "medium_username"
+  # quora = "quora_username"
+  # pinterest = "pinterest_username"
+  # dribbble = "dribbble_username"
+  # behance = "behance_username"
+  # jsfiddle = "jsfiddle_username"
+  # codepen = "codepen_username"
+
+  # Google Webmaster
+  # https://www.google.com/webmasters/
+  googleSiteVerification = "kM_3-DPp_EFOZwlqMoJKk3BpJ7OC806noML_OB4sXnM"
+
+  # Bing Webmaster
+  # https://www.bing.com/toolbox/webmaster/
+  # msValidate = "22596E34341DD1D17D6022C44647E587"
