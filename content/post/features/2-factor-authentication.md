@@ -1,6 +1,6 @@
 ---
 title: "2 Factor Authentication"
-alias: ["/post/101686007055/2-factor-authentication"]
+aliases: ["/post/101686007055/2-factor-authentication"]
 tags: ["2 factor authentication", "features"]
 date: 2014-11-03
 draft: false

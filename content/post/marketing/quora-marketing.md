@@ -1,6 +1,6 @@
 ---
 title: "Can you promote your product without being obnoxious?"
-alias: ["/post/143529067870/can-you-promote-your-product-without-being"]
+aliases: ["/post/143529067870/can-you-promote-your-product-without-being"]
 tags: ["quora", "marketing"]
 date: 2016-04-28
 draft: false

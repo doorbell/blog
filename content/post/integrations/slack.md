@@ -1,7 +1,7 @@
 ---
 title: "Slack integration"
 cover: "https://avatars.io/twitter/slackhq"
-alias: ["/post/78002079055/slack-integration"]
+aliases: ["/post/78002079055/slack-integration"]
 tags: ["slack", "team chat"]
 date: 2014-02-27
 draft: false

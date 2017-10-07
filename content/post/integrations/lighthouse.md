@@ -1,7 +1,7 @@
 ---
 title: "Lighthouse integration"
 cover: "https://avatars.io/twitter/lighthouseapp"
-alias: ["/post/67005556420/lighthouse-integration"]
+aliases: ["/post/67005556420/lighthouse-integration"]
 tags: ["lighthouse", "project management"]
 date: 2013-11-14
 draft: false

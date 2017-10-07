@@ -1,6 +1,6 @@
 ---
 title: "Canned responses"
-alias: ["/post/139596951060/canned-responses"]
+aliases: ["/post/139596951060/canned-responses"]
 tags: ["canned responses", "features"]
 date: 2016-02-19
 draft: false

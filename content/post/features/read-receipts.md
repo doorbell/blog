@@ -1,6 +1,6 @@
 ---
 title: "Read receipts"
-alias: ["/post/138692995010/read-receipts"]
+aliases: ["/post/138692995010/read-receipts"]
 tags: ["read receipts", "features"]
 date: 2016-02-04
 draft: false

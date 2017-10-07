@@ -1,6 +1,6 @@
 ---
 title: "Anonymous feedback"
-alias: ["/post/120176042045/anonymous-feedback"]
+aliases: ["/post/120176042045/anonymous-feedback"]
 tags: ["anonymous feedback", "features"]
 date: 2015-05-29
 draft: false
