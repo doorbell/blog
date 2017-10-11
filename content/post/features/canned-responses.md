@@ -6,7 +6,7 @@ date: 2016-02-19
 draft: false
 ---
 
-No matter how good your FAQ might be, and how clear your site is, there is still a high chance that you’ll keep getting the same questions coming in over and over again.
+No matter how good your FAQ might be, and how clear your site is, there is still a high chance that you'll keep getting the same questions coming in over and over again.
 
 To make life easier, Doorbell now has canned responses!
 
