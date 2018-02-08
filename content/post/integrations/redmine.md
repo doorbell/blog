@@ -37,4 +37,4 @@ Also a huge shout out to [Ezequiel](https://www.linkedin.com/in/ekupelian) from 
 
 Go ahead, give it a whirl! If you haven't got an account yet, go sign up now: [https://doorbell.io](https://doorbell.io), it's free!
 
-PS You can keep up to date either via this blog, or you can follow Doorbell on [Twitter](https://twitter.com/doorbell_io).
+P.S. You can keep up to date either via this blog, or you can follow Doorbell on [Twitter](https://twitter.com/doorbell_io).

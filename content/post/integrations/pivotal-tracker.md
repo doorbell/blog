@@ -19,4 +19,4 @@ If you need help finding your API token, here's some help from Pivotal Tracker's
 
 Enjoy!
 
-PS You can keep up to date either via this blog, or you can follow Doorbell on [Twitter](https://twitter.com/doorbell_io).
+P.S. You can keep up to date either via this blog, or you can follow Doorbell on [Twitter](https://twitter.com/doorbell_io).

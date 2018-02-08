@@ -46,4 +46,4 @@ That's it! From now on, any new feedback you receive will result in a notificati
 
 Go ahead, give it a try! If you haven't got an account yet, go sign up now: [https://doorbell.io](https://doorbell.io)!
 
-PS You can keep up to date either via this blog, or you can follow Doorbell on [Twitter](https://twitter.com/doorbell_io).
+P.S. You can keep up to date either via this blog, or you can follow Doorbell on [Twitter](https://twitter.com/doorbell_io).
