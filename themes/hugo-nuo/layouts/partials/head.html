@@ -77,7 +77,4 @@
 <meta name="msapplication-TileImage" content="https://doorbell.io/mstile-144x144.png" />
 
 <!-- Styles -->
-{{ if ne .Kind "home" }}
-<link rel="stylesheet" href="//cdn.bootcss.com/video.js/6.2.8/alt/video-js-cdn.min.css" />
-{{ end }}
-<link rel="stylesheet" href="/css/bundle.css" />
+<link rel="stylesheet" href="/css/bundle.css{{ if isset .Site.Params "css_cache_busting" }}?v={{ .Site.Params.css_cache_busting }}{{ end }}" />
