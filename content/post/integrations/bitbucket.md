@@ -2,7 +2,7 @@
 title: "Bitbucket issues integration"
 cover: "https://avatars.io/twitter/bitbucket"
 aliases: ["/post/95202179320/bitbucket-issues-integration"]
-tags: ["bitbucket", "project management"]
+tags: ["bitbucket", "project management", "integration"]
 date: 2014-08-19
 draft: false
 ---

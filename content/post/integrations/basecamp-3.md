@@ -1,7 +1,7 @@
 ---
 title: "Basecamp 3 integration"
 cover: "https://avatars.io/twitter/basecamp"
-tags: ["basecamp", "project management"]
+tags: ["basecamp", "project management", "integration"]
 date: 2018-02-16
 draft: false
 ---

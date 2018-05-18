@@ -2,7 +2,7 @@
 title: "Pivotal Tracker integration"
 cover: "https://avatars.io/twitter/pivotaltracker"
 aliases: ["/post/62765930252/pivotal-tracker-integration"]
-tags: ["pivotal tracker", "project management"]
+tags: ["pivotal tracker", "project management", "integration"]
 date: 2013-10-01
 draft: false
 ---

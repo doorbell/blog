@@ -1,7 +1,7 @@
 ---
 title: "Upwave integration"
 cover: "https://avatars.io/twitter/upwavehq"
-tags: ["upwave", "project management"]
+tags: ["upwave", "project management", "integration"]
 date: 2016-09-29
 draft: false
 ---

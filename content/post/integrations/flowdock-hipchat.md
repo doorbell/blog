@@ -2,7 +2,7 @@
 title: "Flowdock & HipChat integrations"
 cover: "https://avatars.io/twitter/hipchat"
 aliases: ["/post/66511854649/group-chat-notifications"]
-tags: ["flowdown", "hipchat", "team chat"]
+tags: ["flowdown", "hipchat", "team chat", "integration"]
 date: 2013-11-09
 draft: false
 ---
