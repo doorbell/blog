@@ -24,7 +24,11 @@ Since then though Front have worked hard on releasing a new and improved v2 of t
 
 Setting up the Front integration is very simple! Head over to the [setup page](https://doorbell.io/applications/0/setup#front), and click the "Connect to Front" button.
 
+![](/img/integrations/front/connect.png)
+
 This will start the authentication process to link Doorbell to your Front account, so we can add your customers' feedback to Front.
+
+![](/img/integrations/front/authorize.png)
 
 Once that's done, we'll automatically send the feedback to your selected Front inbox!
 
