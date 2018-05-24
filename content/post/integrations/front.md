@@ -39,3 +39,9 @@ You can read a more about the integration on [Doorbell's integration page on Fro
 So go ahead, give it a try! If you haven't got an account yet, go sign up now: [https://doorbell.io](https://doorbell.io/?ref=front-blog)!
 
 P.S. You can keep up to date either via this blog, or you can follow Doorbell on [Twitter](https://twitter.com/doorbell_io).
+
+<style type="text/css">
+    .post-detail img {
+        max-width: 50%;
+    }
+</style>
