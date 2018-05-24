@@ -24,7 +24,7 @@ Doorbell will save a link to the recording of the current session, so you can ea
 ![](/img/integrations/session-recording/fullstory.png) ![](/img/integrations/session-recording/logrocket.png) ![](/img/integrations/session-recording/sessionstack.png) ![](/img/integrations/session-recording/smartlook.png)
 
 
-Go ahead, give it a whirl! If you haven't got an account yet, go sign up now: [https://doorbell.io](https://doorbell.io), it's free!
+Go ahead, [give it a whirl](https://doorbell.io/applications/0/setup#sdks-javascript)! If you haven't got an account yet, go sign up now: [https://doorbell.io](https://doorbell.io), it's free!
 
 P.S. You can keep up to date either via this blog, or you can follow Doorbell on [Twitter](https://twitter.com/doorbell_io).
 
