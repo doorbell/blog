@@ -2,9 +2,13 @@
 title: "Flowdock & HipChat integrations"
 cover: "https://avatars.io/twitter/hipchat"
 aliases: ["/post/66511854649/group-chat-notifications"]
-tags: ["flowdown", "hipchat", "team chat", "integration"]
+tags: ["flowdock", "hipchat", "team chat", "integration"]
 date: 2013-11-09
 draft: false
+---
+
+## 2019 update - Both integrations have been discontinued
+
 ---
 
 Today we are very excited to announce a brand new feature on Doorbell: group chat notifications.
