@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "rollup -c -w",
     "build": "rollup -c",
-    "sass": "sass --scss --style compressed --watch ./src/styles/main.scss:./static/css/bundle.css",
+    "sass": "sass --style compressed --watch ./src/styles/main.scss:./static/css/bundle.css",
     "fonts": "cpx './src/fonts/**/*.{svg,ttf,otf,woff,woff2,eot}' ./static/fonts --verbose",
     "images": "cpx './src/images/**/*.{png,gif,jpg,ico,svg,webp}' ./static/img --verbose",
     "eslint": "eslint --cache --fix index.js src/scripts",
@@ -61,5 +61,7 @@
     "stylelint": "^8.0.0",
     "stylelint-config-standard": "^17.0.0"
   },
-  "dependencies": {}
+  "dependencies": {
+    "sass": "^1.18.0"
+  }
 }

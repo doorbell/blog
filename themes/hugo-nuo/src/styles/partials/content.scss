@@ -44,17 +44,17 @@
     border-top: 1px dashed $grey-lighter;
     border-bottom: none;
 
-    &::before {
-      content: "sep line";
-      position: absolute;
-      top: -12px;
-      left: calc(50% - 40px);
-      padding: 0 0.5rem;
-      background-color: $white;
-      color: $grey-lighter;
-      font-size: $size-7;
-      font-family: $family-monospace;
-    }
+    // &::before {
+    //   content: "sep line";
+    //   position: absolute;
+    //   top: -12px;
+    //   left: calc(50% - 40px);
+    //   padding: 0 0.5rem;
+    //   background-color: $white;
+    //   color: $grey-lighter;
+    //   font-size: $size-7;
+    //   font-family: $family-monospace;
+    // }
   }
 
   h1,
