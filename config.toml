@@ -1,6 +1,6 @@
 baseurl = "https://blog.doorbell.io"
 languageCode = "en-us"
-title = "Doorbell blog"
+title = "Doorbell.io blog"
 theme = "hugo-nuo"
 enableRobotsTXT = true
 pygmentsuseclasses = true
