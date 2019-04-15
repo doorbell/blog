@@ -22,7 +22,7 @@ Since then though Front have worked hard on releasing a new and improved v2 of t
 
 ## Integration
 
-Setting up the Front integration is very simple! Head over to the [setup page](https://doorbell.io/applications/0/setup#front), and click the "Connect to Front" button.
+Setting up the Front integration is very simple! Head over to the [setup page](https://doorbell.io/applications/setup#front), and click the "Connect to Front" button.
 
 ![](/img/integrations/front/connect.png)
 
