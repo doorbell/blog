@@ -26,7 +26,7 @@ googleAnalytics = "UA-42729408-2"
 [params]
   author = "Philip Manavopoulos"
   avatar = "https://doorbell.io/img/logo-big-padding.png"
-  seotitle = "Doorbell blog"
+  seotitle = "Doorbell.io blog"
   subtitle = ""
   description = "Easily gather in-app user feedback, on websites, iOS apps, and Android apps."
   paginate = 10
