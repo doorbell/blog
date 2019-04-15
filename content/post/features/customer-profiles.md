@@ -15,7 +15,7 @@ Our new customer profiles feature does just that. You'll have additional insight
 
 When you open a message in Doorbell, you'll see the "Customer profile" panel in the right sidebar. You can see a real example of a profile shown in the image above.
 
-In the panel you'll see the number of previous conversations you've had with them, as well as any other information we've been able to find. You'll be able to see some combination of name, picture, job title, bio, websites, and social network profiles.
+In the panel you'll see the number of previous conversations you've had with them, as well as any other information we've been able to find. You'll be able to see some combination of name, picture, location, job title, bio, websites, and social profiles.
 
 You can enable customer profiles from the [setup page](https://doorbell.io/applications/setup#customer-profiles).
 
