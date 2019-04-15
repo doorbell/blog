@@ -16,7 +16,7 @@ To make life easier, Doorbell now has canned responses!
 
 As you can see in the image above, you will now see a new dropdown when replying which has a list of your canned responses. You can easily select one, prepopulate the message of your reply, and customise it (if you need to) before sending it.
 
-So go ahead and try it out, it is available on the [Business plan](https://doorbell.io/pricing?ref=blog-read-receipts), but you can try it out for free for 15 days!
+So go ahead and try it out, it is available on the [Business plan](https://doorbell.io/pricing?ref=blog-read-receipts), but you can try it out for free for 7 days!
 
 Go ahead, give it a whirl! If you haven't got an account yet, go sign up now: [https://doorbell.io](https://doorbell.io), it's free!
 

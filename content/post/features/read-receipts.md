@@ -16,7 +16,7 @@ As of today, Doorbell has read receipts.
 
 As you can see in the image above, you will now see a little icon next to each message sent by your any of your team members, which will indicate if the person who originally submitted the message has seen your message (or not).
 
-So go ahead and try it out, it is available on the [Startup and Business plans](https://doorbell.io/pricing?ref=blog-read-receipts), but you can try it out for free for 15 days!
+So go ahead and try it out, it is available on the [Startup and Business plans](https://doorbell.io/pricing?ref=blog-read-receipts), but you can try it out for free for 7 days!
 
 Go ahead, give it a whirl! If you haven't got an account yet, go sign up now: [https://doorbell.io](https://doorbell.io), it's free!
 
