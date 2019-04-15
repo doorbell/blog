@@ -30,7 +30,7 @@ googleAnalytics = "UA-42729408-2"
   subtitle = ""
   description = "Easily gather in-app user feedback, on websites, iOS apps, and Android apps."
   paginate = 10
-  css_cache_busting = "2"
+  css_cache_busting = "3"
 
   # Choose your social networks
   email = "hello@doorbell.io"
