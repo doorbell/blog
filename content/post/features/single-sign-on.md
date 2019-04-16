@@ -1,6 +1,6 @@
 ---
 title: "Single Sign On (SAML 2.0)"
-tags: ["sso", "saml", "saml 2.0", "features"]
+tags: ["sso", "saml", "saml 2.0", "okta", "features"]
 date: 2019-04-16
 draft: false
 ---
