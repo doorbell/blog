@@ -1,5 +1,5 @@
 {{ $gohugoio := "gohugoio" }}
-{{ $avatar := "https://doorbell.io/img/logo-big-padding.png" }}
+
 <!-- Site & Page Meta Data -->
 {{ if eq .Type "post" }}
 
@@ -19,7 +19,7 @@
     <meta name="twitter:site" content="@{{ .Site.Params.twitter | default $gohugoio }}" />
     <meta name="twitter:title" content="{{ .Title }}" />
     <meta name="twitter:description" content="{{ .Summary | plainify }}" />
-    <meta name="twitter:image" content="{{ $avatar | absURL }}" />
+    <meta name="twitter:image" content="{{ .Site.Params.avatar | absURL }}" />
   {{ end }}
 
 {{ else }}
@@ -33,7 +33,7 @@
   <meta name="twitter:site" content="@{{ .Site.Params.twitter | default $gohugoio }}" />
   <meta name="twitter:title" content="{{ if isset .Site.Params "seotitle" }}{{ .Site.Params.seotitle }}{{ else }}{{ .Site.Title }}{{ end }}" />
   <meta name="twitter:description" content="{{ .Site.Params.description }}" />
-  <meta name="twitter:image" content="{{ $avatar | absURL }}" />
+  <meta name="twitter:image" content="{{ .Site.Params.avatar | absURL }}" />
 
 {{ end }}
 
