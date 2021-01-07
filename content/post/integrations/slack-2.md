@@ -17,7 +17,7 @@ With the availability of the [Slack button](https://api.slack.com/docs/slack-but
 
 To setup the integration, head over to [Doorbell.io](https://doorbell.io), open your application's setup page. Then go to the **Notifications** > **Group Chat Notifications**. Now all you need to do is expand the **Slack** option, and click the **Add to Slack** button!
 
-![](/img/integrations/chat/slack/slack-button.png)
+![](/img/integrations/chat/slack/new-slack-button.png)
 
 This will take you over to Slack, where you can configure the integration, and select which channel you want to receive messages in.
 

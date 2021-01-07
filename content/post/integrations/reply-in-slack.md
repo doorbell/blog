@@ -18,7 +18,7 @@ This creates an amazing opportunity for Doorbell to allow replying to messages, 
 
 To setup the integration, go to your [Doorbell application's integrations](https://doorbell.io/applications/setup#notifications-group-chat). Simply expand the **Slack** section, and click the **Add to Slack** button!
 
-![](/img/integrations/chat/slack/slack-button.png)
+![](/img/integrations/chat/slack/new-slack-button.png)
 
 This will take you over to Slack, where you can configure the integration, and select which channel you want to receive messages in.
 
