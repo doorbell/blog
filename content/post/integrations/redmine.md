@@ -1,6 +1,6 @@
 ---
 title: "Redmine issues integration"
-cover: "https://doorbell.io/img/integrations/redmine.png"
+cover: "https://graph.facebook.com/redminepage/picture?type=square&width=240"
 aliases: ["/post/95203128740/redmine-integration"]
 tags: ["redmine", "project management", "integration"]
 date: 2014-08-19
