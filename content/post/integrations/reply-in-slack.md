@@ -1,6 +1,6 @@
 ---
 title: "Reply in Slack"
-cover: "https://avatars.io/twitter/slackhq"
+cover: "https://unavatar.io/twitter/slackhq"
 tags: ["slack", "slack dialogs", "team chat", "integration"]
 date: 2017-10-11
 draft: false
