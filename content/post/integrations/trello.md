@@ -1,6 +1,6 @@
 ---
 title: "Trello integration"
-cover: "https://avatars.io/twitter/trello"
+cover: "https://unavatar.io/twitter/trello"
 aliases: ["/post/60323763701/trello-integration-arrives-on-doorbell"]
 tags: ["trello", "project management", "integration"]
 date: 2013-09-05
