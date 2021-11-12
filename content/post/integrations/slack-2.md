@@ -1,6 +1,6 @@
 ---
 title: "Slack integration improved"
-cover: "https://avatars.io/twitter/slackhq"
+cover: "https://unavatar.io/twitter/slackhq"
 aliases: ["/post/134792037115/slack-integration"]
 tags: ["slack", "team chat", "integration"]
 date: 2015-12-08
