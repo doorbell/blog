@@ -1,6 +1,6 @@
 ---
 title: "GitLab issues integration"
-cover: "https://avatars.io/twitter/gitlab"
+cover: "https://unavatar.io/twitter/gitlab"
 tags: ["gitlab", "project management", "integration"]
 date: 2015-02-04
 draft: false
