@@ -1,6 +1,6 @@
 ---
 title: "Front integration"
-cover: "https://unavatar.io/twitter/frontapp"
+cover: "https://unavatar.io/twitter/front"
 tags: ["front", "helpdesk", "integration"]
 date: 2018-05-21
 draft: false
