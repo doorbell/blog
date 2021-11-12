@@ -1,6 +1,6 @@
 ---
 title: "Bitbucket issues integration"
-cover: "https://avatars.io/twitter/bitbucket"
+cover: "https://logo.clearbit.com/bitbucket.org?size=240"
 aliases: ["/post/95202179320/bitbucket-issues-integration"]
 tags: ["bitbucket", "project management", "integration"]
 date: 2014-08-19
