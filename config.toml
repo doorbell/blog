@@ -7,7 +7,7 @@ pygmentsuseclasses = true
 PygmentsCodeFences = true
 canonifyurls = true
 
-googleAnalytics = "UA-42729408-2"
+googleAnalytics = ""
 
 # Initial site menu, you can extend menu with content.
 [[menu.main]]
