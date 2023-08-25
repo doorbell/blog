@@ -19,4 +19,6 @@ SSO is available on the [Enterprise plan](https://doorbell.io/pricing?ref=blog-s
 
 Go ahead, give it a try! If you haven't got an account yet, go sign up now: [https://doorbell.io](https://doorbell.io)!
 
+And thanks to Duncan from [AuditShine](https://www.auditshine.com) who contributed to this article and helped test this feature.
+
 PS You can keep up to date either via this blog, or you can follow Doorbell on [Twitter](https://twitter.com/doorbell_io).
